@@ -1,0 +1,63 @@
+[
+    {
+        "title": "3.3.0 - (14/05/2018)",
+        "tag": "New",
+        "color": "#01C853",
+        "desc": "File system changed from Dokan to CBFS Host Cloud Drive is now a network drive various bug fixes and stability improvements Share permissions re-design and optimization"
+    },
+    
+    {
+        "title": "3.1.0 - (20/05/2015)",
+        "tag": "Fix",
+        "color": "#2962FF",
+        "desc": "Introduction Host Cloud Drive - virtual drive functionality New Share options and management New, more user friendly design Sync optimizations Various performance improvements and bug fixes"
+    },
+    
+    {
+        "title": "3.1.0 - (20/05/2015)",
+        "tag": "improvement",
+        "color": "#C35BFF",
+        "desc": "Added Settings for Auto Start Added Update Notification Speed Optimization Bug Fixes"
+    },
+    
+    {
+        "title": "3.3.0 - (14/05/2018)",
+        "tag": "New",
+        "color": "#01C853",
+        "desc": "File system changed from Dokan to CBFS Host Cloud Drive is now a network drive various bug fixes and stability improvements Share permissions re-design and optimization"
+    },
+    
+    {
+        "title": "3.1.0 - (20/05/2015)",
+        "tag": "Fix",
+        "color": "#2962FF",
+        "desc": "Introduction Host Cloud Drive - virtual drive functionality New Share options and management New, more user friendly design Sync optimizations Various performance improvements and bug fixes"
+    },
+    
+    {
+        "title": "3.1.0 - (20/05/2015)",
+        "tag": "improvement",
+        "color": "#C35BFF",
+        "desc": "Added Settings for Auto Start Added Update Notification Speed Optimization Bug Fixes"
+    },
+    {
+        "title": "3.3.0 - (14/05/2018)",
+        "tag": "New",
+        "color": "#01C853",
+        "desc": "File system changed from Dokan to CBFS Host Cloud Drive is now a network drive various bug fixes and stability improvements Share permissions re-design and optimization"
+    },
+    
+    {
+        "title": "3.1.0 - (20/05/2015)",
+        "tag": "Fix",
+        "color": "#2962FF",
+        "desc": "Introduction Host Cloud Drive - virtual drive functionality New Share options and management New, more user friendly design Sync optimizations Various performance improvements and bug fixes"
+    },
+    
+    {
+        "title": "3.1.0 - (20/05/2015)",
+        "tag": "improvement",
+        "color": "#C35BFF",
+        "desc": "Added Settings for Auto Start Added Update Notification Speed Optimization Bug Fixes"
+    }
+]

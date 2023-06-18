@@ -1,0 +1,23 @@
+[
+    {
+        "field":"Font Color",
+        "colorCode":"#444444"
+    },
+    {
+        "field":"Background Color",
+        "colorCode":"#FFFFFF"
+    },
+    {
+        "field":"Button Color",
+        "colorCode":"#2072EF"
+    },
+    {
+        "field":"Button Border Color",
+        "colorCode":"#2072EF"
+    },
+    {
+        "field":"Buttons Mouseover Color",
+        "colorCode":"#0053D1"
+    }
+
+]

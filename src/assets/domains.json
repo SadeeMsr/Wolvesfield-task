@@ -1,0 +1,42 @@
+[
+    {
+        "name":".COM",
+        "discounted":"$5.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":".AL",
+        "discounted":"$55.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":".NET",
+        "discounted":"$7.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":".HEALTH",
+        "discounted":"$7.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":".CO.UK",
+        "discounted":"$3.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":".ORG",
+        "discounted":"$15.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":".CO",
+        "discounted":"$26.33/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":".SEA",
+        "discounted":"$26.33/yr",
+        "price":"Instead of $10.99/yr"
+    }
+]

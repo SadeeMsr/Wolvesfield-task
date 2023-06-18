@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Bluehost",
+        "discounted":"$5.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":"HostGator",
+        "discounted":"$5.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":"GoDaddy",
+        "discounted":"$5.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":"DreamHost",
+        "discounted":"$5.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":"A2 Hosting",
+        "discounted":"$5.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":"SiteGround",
+        "discounted":"$5.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":"InMotion Hosting",
+        "discounted":"$5.99/yr",
+        "price":"Instead of $10.99/yr"
+    },
+    {
+        "name":"GreenGeeks",
+        "discounted":"$5.99/yr",
+        "price":"Instead of $10.99/yr"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "title":"The TLD",
+        "desc": "Does the domain extension math the language of the domain name?",
+        "icon": "https://www.svgrepo.com/show/43847/com-file-format-symbol.svg"
+    },
+    {
+        "title":"Domain Length",
+        "desc": "Is the domain short enough to remember?",
+        "icon": "https://www.svgrepo.com/show/308847/ruler-measure-measurement.svg"
+    },
+    {
+        "title":"Language",
+        "desc": "How complex is the actual domain name?",
+        "icon": "https://www.svgrepo.com/show/409357/world.svg"
+    },
+    {
+        "title":"International recognition",
+        "desc": "Can the domain name be used on an international scale?",
+        "icon": "https://www.svgrepo.com/show/509024/badge.svg"
+    },
+    {
+        "title":"Search engine",
+        "desc": "Does the domain follow search engine guidelines?",
+        "icon": "https://www.svgrepo.com/show/513607/search.svg"
+    },
+    {
+        "title":"Advertising Potential",
+        "desc": "Could the domain be used for advertising campaigns?",
+        "icon": "https://www.svgrepo.com/show/211490/megaphone-speaker.svg"
+    },
+    {
+        "title":"Sales Oppurtunities",
+        "desc": "Can the domain name be used on an international scale?",
+        "icon": "https://www.svgrepo.com/show/471845/sale-04.svg"
+    },
+    {
+        "title":"Typo susceptibility",
+        "desc": "How high is the risk of mistyping the domain name?",
+        "icon": "https://www.svgrepo.com/show/510269/text-tool.svg"
+    },
+    {
+        "title":"Business potential",
+        "desc": "Can the domain be used as your company address?",
+        "icon": "https://www.svgrepo.com/show/497219/lamp-charge.svg"
+    }
+]
